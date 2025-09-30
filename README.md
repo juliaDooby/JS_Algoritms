@@ -1,4 +1,4 @@
-# Algoritms's Set 🐝
+# ๑・Algoritms's Set 
 
 <div align="center"><img src="https://github.com/juliaDooby/JS_Algoritms/blob/main/assets/images/Cover-algoritms.jpg?raw=true" width="60%" height="20%"></img></div>
 
